@@ -9,6 +9,10 @@
     {
       "source": "/",
       "destination": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
+      "source": "/amogus",
+      "destination": "https://amog-us.club"
     }
   ]
 }
